@@ -1,0 +1,15 @@
+build/
+plugins/*.dll
+plugins/*.so
+plugins/*.dylib
+.vs/
+.vscode/
+*.exe
+*.o
+*.obj
+*.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+library_data.txt
